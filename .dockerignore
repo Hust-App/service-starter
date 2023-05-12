@@ -1,0 +1,28 @@
+# Ignora diretórios
+**/node_modules
+**/build
+**/.circleci
+**/.idea
+**/tests
+
+# Ignora arquivos
+*.log
+.DS_Store
+*.env
+.dockerignore
+.eslintrc.json
+.gitignore
+README.md
+LICENSE
+package-lock.json
+yarn-error.log
+
+# Ignora arquivos de configuração de editor
+*.iml
+*.sublime-project
+*.sublime-workspace
+.vscode/
+*.swp
+*.swo
+.idea/
+*.code-workspace
