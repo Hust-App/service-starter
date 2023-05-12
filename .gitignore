@@ -1,0 +1,34 @@
+# Arquivos do Sistema Operacional
+.DS_Store
+Thumbs.db
+
+# Pasta de dependências
+node_modules/
+
+# Arquivos e pastas relacionados à IDE
+.idea/
+.vscode/
+*.iml
+*.swp
+
+# Arquivos de configuração
+*.env
+gcp-data-access.json
+
+# Pasta de scripts
+scripts/
+
+# Logs
+*.log
+npm-debug.log*
+
+# Diretórios de distribuição
+/dist
+/build
+
+# Yarn Integrity file
+.yarn-integrity
+
+# Arquivos e diretórios criados por ferramentas de teste
+/coverage
+.nyc_output
