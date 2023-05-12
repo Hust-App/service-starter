@@ -1,0 +1,16 @@
+# Ignorar todos os arquivos JavaScript na raiz
+/*.js
+
+# Ignorar diretórios comuns
+node_modules
+dist
+public
+coverage
+
+# Ignorar arquivos de configuração específicos
+jest.config.js
+webpack.config.js
+
+# Ignorar arquivos de teste
+**/*.test.js
+**/*.spec.js
