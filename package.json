@@ -47,8 +47,10 @@
     "axios": "^1.2.1",
     "bull": "^4.8.2",
     "dotenv": "^16.0.3",
+    "hust-component": "https://github.com/Hust-App/hust-component",
     "moment": "^2.29.4",
     "pino": "^8.14.1",
+    "pino-pretty": "^10.0.0",
     "redis": "^4.1.0",
     "reflect-metadata": "^0.1.13",
     "uuid": "^9.0.0"
