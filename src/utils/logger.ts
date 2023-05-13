@@ -5,7 +5,7 @@ import moment from 'moment';
 const logger = pino(
   pretty({
     customPrettifiers: {
-      time: timestamp => moment(timestamp).format('DD/MM/YYYY HH:mm:ss'),
+      time: () => `[${moment().format('DD/MM/YYYY HH:mm:ss')}]`,
     },
     // messageFormat: '{levelLabel} - {pid} - url:{req.url}',
   }),
