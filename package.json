@@ -40,7 +40,7 @@
     "axios": "^1.4.0",
     "bull": "^4.10.4",
     "dotenv": "^16.0.3",
-    "hust-component": "https://github.com/Hust-App/hust-component#b32410a0b91958ddc624612727175e854d48c7ea",
+    "hust-component": "https://github.com/Hust-App/hust-component#63774cb2e018f60fc54920d43b654c4d386eec86",
     "moment": "^2.29.4",
     "pino": "^8.14.1",
     "pino-pretty": "^10.0.0",

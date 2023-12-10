@@ -1,1 +1,1 @@
-import './services/inicializeWorkerPresence';
+import './services';

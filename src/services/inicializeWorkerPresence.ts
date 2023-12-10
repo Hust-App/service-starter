@@ -37,4 +37,5 @@ redisClient
     process.exit(1);
   });
 
+export { BASE_SERVICE_NAME as serviceName, queueName, workerId };
 export default { serviceName: BASE_SERVICE_NAME, queueName, workerId };
