@@ -2882,9 +2882,9 @@ human-signals@^4.3.0:
   resolved "https://registry.yarnpkg.com/human-signals/-/human-signals-4.3.1.tgz#ab7f811e851fca97ffbd2c1fe9a958964de321b2"
   integrity sha512-nZXjEF2nbo7lIw3mgYjItAfgQXog3OjJogSbKa2CQIIvSGWcKgeJnQlNXip6NglNzYH45nSRiEVimMvYL8DDqQ==
 
-"hust-component@https://github.com/Hust-App/hust-component#b32410a0b91958ddc624612727175e854d48c7ea":
+"hust-component@https://github.com/Hust-App/hust-component#63774cb2e018f60fc54920d43b654c4d386eec86":
   version "1.0.3"
-  resolved "https://github.com/Hust-App/hust-component#b32410a0b91958ddc624612727175e854d48c7ea"
+  resolved "https://github.com/Hust-App/hust-component#63774cb2e018f60fc54920d43b654c4d386eec86"
   dependencies:
     "@google-cloud/storage" "^6.9.4"
     axios "^1.3.4"
